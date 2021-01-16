@@ -2936,6 +2936,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Verilog Quick Reference Guide - Sutherland HDL](http://sutherland-hdl.com/pdfs/verilog_2001_ref_guide.pdf) (PDF)
 * [Verilog Tutorial](http://www.asic-world.com/verilog/veritut.html)
+* [Verilog, Formal Verification and Verilator Beginner's Tutorial](https://zipcpu.com/tutorial/)
 
 
 ### VHDL
